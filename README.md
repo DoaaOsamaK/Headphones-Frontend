@@ -2,6 +2,11 @@
 
 An elegant and responsive landing page for headphones, built with HTML, Sass, and JavaScript.
 
+## Preview
+
+![preview](https://github.com/DoaaOsamaK/Headphones-Frontend/assets/147305995/d1af3b11-a940-4129-ad63-546811e7564b)
+
+
 ## Features
 
 - 🌑 Dark interface design.
@@ -14,10 +19,6 @@ An elegant and responsive landing page for headphones, built with HTML, Sass, an
 - 💻 HTML
 - 🎨 Sass
 - 🚀 JavaScript
-
-## Preview
-
-![preview](https://github.com/DoaaOsamaK/Headphones-Frontend/assets/147305995/d1af3b11-a940-4129-ad63-546811e7564b)
 
 D U A A O - @doaaosamak - doaaosamakhalaf@gmail.com
 
