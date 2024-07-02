@@ -4,6 +4,7 @@ An elegant and responsive landing page for headphones, built with HTML, Sass, an
 
 ## Preview
 
+
 ![preview](https://github.com/DoaaOsamaK/Headphones-Frontend/assets/147305995/d1af3b11-a940-4129-ad63-546811e7564b)
 
 
